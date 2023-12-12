@@ -1,0 +1,13 @@
+import maths
+
+ def area():
+
+ # This is a simple function that calculates the area of a rectangle
+
+  length=10
+
+ width=4
+
+ result=10*4
+
+ return result
